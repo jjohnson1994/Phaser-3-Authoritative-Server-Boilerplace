@@ -26,7 +26,7 @@
     "jsdom": "^15.1.1",
     "nodemon": "^1.19.1",
     "phaser": "^3.18.1",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "webfontloader": "^1.6.28",
     "webpack": "^4.36.1",
     "webpack-cli": "^3.3.6"
