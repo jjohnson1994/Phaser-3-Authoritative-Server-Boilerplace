@@ -29,6 +29,6 @@
     "socket.io": "^2.2.0",
     "webfontloader": "^1.6.28",
     "webpack": "^4.36.1",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.12"
   }
 }
